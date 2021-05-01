@@ -6,5 +6,4 @@ numpy==1.17.3
 pickle4==0.0.1
 matplotlib==3.4.1
 scipy==0.15.1
-flasgger==0.9.4
 sklearn==0.22.2.post1
