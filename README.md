@@ -10,3 +10,5 @@ The working library was set up in my local git and then extracted to github. The
 The requirement files which initially worked during Heroku deployment with Procfile had some version compatibility issues when creating docker image. So I made the docker image and container using an updated requirements file 'Requirements1' and deployed it in Heroku later. 
 
 The project was successfully tested and all it's functionality ran well. The output deployment images is shown in the output folder. 
+
+The name of the AQI is aqi-ml-abhirup.
