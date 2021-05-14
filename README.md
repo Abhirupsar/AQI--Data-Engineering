@@ -2,7 +2,7 @@
 
 This project takes input pickles models created in the Air quality index projects. The regression_model refers to the random-forest created and optimised in the project.
 
-The regression1_model refers to the KNN model which is created and optimised in the project. Random forest and KNN model have been selected as part modelling process in the frontend. 
+The regression1_model refers to the KNN model which is created and optimised in the project. Random forest and KNN model have been selected as part modelling process in the frontend. The project is carried out with sufficient EDA, applying different models and various optimization techniques. 
 
 The Randomforest has better accuracy and hence is the best fit for the AQI data. The KNN model was also chosen to use in the frontend since it's output had better variablility. Better variability helped me figure out if the models were working well in the frontend with changing model. 
 
